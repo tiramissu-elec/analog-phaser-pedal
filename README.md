@@ -22,7 +22,7 @@ This was one of my first PCB layouts. Possible improvements:
 - switching noise reduction when engaging bypass
 
 ## Schematic
-(images/Schematic.png)
+!(images/Schematic.png)
 
 ## PCB Layout
-(images/PCB.png)
+!(images/PCB.png)
