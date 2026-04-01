@@ -11758,7 +11758,7 @@
 		)
 	)
 	(gr_rect
-		(start 151 59.825)
+		(start 151.5 59.825)
 		(end 155 76.325)
 		(stroke
 			(width 0.1)
@@ -11790,7 +11790,7 @@
 			)
 		)
 	)
-	(gr_text "Phaser 45 ¯\\_(ツ)_/¯\nJuho & Maksim"
+	(gr_text "Phaser 45 ¯\\_(ツ)_/¯"
 		(at 154.5 75.825 90)
 		(layer "F.SilkS")
 		(uuid "535f96c7-ad0a-4db7-a7c4-a5f3b397e20a")
