@@ -7,6 +7,7 @@ See more details in [Project Notes](project_notes.md)
 - KiCad schematic
 - PCB layout
 - Example PCB render
+- custom 3pdt footswitch footprint
 
 ## Tools
 
